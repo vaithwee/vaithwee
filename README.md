@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaithwee
+- 👋 Hi, I’m Wei
 - 👀 I’m interested in game
 - 🌱 I’m currently learning java/swift
 - 💞️ I’m looking to collaborate on ...
